@@ -31,8 +31,8 @@
 			value="com.mysql.jdbc.Driver"></property>
 		<property name="url"
 			value="jdbc:mysql://localhost:3306/student-management-1.0"></property>
-		<property name="username" value="test_user"></property>
-		<property name="password" value="test@12345"></property>
+		<property name="username" value="root"></property>
+		<property name="password" value="@J5k5l56q"></property>
 	</bean>
 
 	<bean id="sessionFactory"
